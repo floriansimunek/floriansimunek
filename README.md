@@ -1,5 +1,7 @@
 # <👋 Hello World! I'm Florian SIMUNEK />
-<a href="https://www.linkedin.com/in/florian-simunek" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:florian.simunek@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://floriansimunek.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/florian-simunek" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:florian.simunek@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://floriansimunek.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" /></a>
 
 # 💻 Tech Stack
 ##### Web Languages
