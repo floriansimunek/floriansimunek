@@ -1,5 +1,5 @@
 # <👋 Hello World! I'm Florian SIMUNEK />
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simunek-florian/)
 <a href="mailto:florian.simunek@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <a href="https://floriansimunek.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000&style=for-the-badge" /></a>
 
