@@ -3,11 +3,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@floriansimunek.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://floriansimunek.com)
 
-- 👨‍💻 Moi c'est Florian, 23 ans
-- ⚛️ Développeur d'applications (React.js | Javascript | Typescript)
-- 🚀 Développeur passionné qui adore apprendre
-- 💡 Créateur de code passionné, cherchant à s'améliorer tous les jours
-- 🔍 Amoureux de la technologie, toujours à la recherche de nouvelles opportunités
+👨‍💻 Moi c'est Florian, 23 ans
+⚛️ Développeur d'applications (React.js | Javascript | Typescript)
+🚀 Développeur passionné qui adore apprendre
+💡 Créateur de code passionné, cherchant à s'améliorer tous les jours
+🔍 Amoureux de la technologie, toujours à la recherche de nouvelles opportunités
 
 # 💻 Tech Stack
 ##### Web Languages
