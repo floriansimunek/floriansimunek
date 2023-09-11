@@ -6,7 +6,7 @@
 👨‍💻 Moi c'est Florian, 23 ans\
 ⚛️ Développeur d'applications (React.js | Javascript | Typescript)\
 🚀 Développeur passionné qui adore apprendre\
-💡 Créateur de code passionné, cherchant à s'améliorer tous les jours\
+💻 Créateur de code passionné, cherchant à s'améliorer tous les jours\
 🔍 Amoureux de la technologie, toujours à la recherche de nouvelles opportunités\
 
 # 💻 Tech Stack
