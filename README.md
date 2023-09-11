@@ -3,6 +3,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@floriansimunek.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://floriansimunek.com)
 
+- 👨‍💻 Moi c'est Florian, 23 ans
+- ⚛️ Développeur d'applications (React.js | Javascript | Typescript)
+- 🚀 Développeur passionné qui adore apprendre
+- 💡 Créateur de code passionné, cherchant à s'améliorer tous les jours
+- 🔍 Amoureux de la technologie, toujours à la recherche de nouvelles opportunités
+
 # 💻 Tech Stack
 ##### Web Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
