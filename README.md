@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://floriansimunek.com)
 
 👨‍💻 Moi c'est Florian, 23 ans\
-⚛️ Développeur d'applications (React.js | Javascript | Typescript)\
+⚛️ Développeur d'applications Freelance (React.js | Javascript | Typescript)\
 🚀 Développeur passionné qui adore apprendre\
 💻 Créateur de code passionné, cherchant à s'améliorer tous les jours\
 🔍 Amoureux de la technologie, toujours à la recherche de nouvelles opportunités
