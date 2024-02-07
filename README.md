@@ -9,7 +9,7 @@
 👨‍💻 Intégration de maquette responsive avec HTML, CSS ou Wordpress\
 ⚛️ Expert en développement front-end React, je vise une expérience utilisateur optimale\
 📈 Performances et design réactif (responsive design) pour des interfaces impeccables\
-🎨 Création de maquettes (UI/UX)\
+🎨 Création de maquettes (UI/UX)
 
 # 💻 Tech Stack
 ##### Web Languages
