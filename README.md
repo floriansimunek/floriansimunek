@@ -5,10 +5,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://floriansimunek.com)
 
 👨‍💻 Moi c'est Florian, 23 ans\
-⚛️ Développeur d'applications Freelance (React.js | Javascript | Typescript)\
-🚀 Développeur passionné qui adore apprendre\
-💻 Créateur de code passionné, cherchant à s'améliorer tous les jours\
-🔍 Amoureux de la technologie, toujours à la recherche de nouvelles opportunités
+🎯 Spécialisé ReactJS & Javascript (+ Typescript), création d'applications sur-mesure\
+👨‍💻 Intégration de maquette responsive avec HTML, CSS ou Wordpress\
+⚛️ Expert en développement front-end React, je vise une expérience utilisateur optimale\
+📈 Performances et design réactif (responsive design) pour des interfaces impeccables\
+🎨 Création de maquettes (UI/UX)\
 
 # 💻 Tech Stack
 ##### Web Languages
@@ -37,7 +38,7 @@
 
 ##### Others
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats
 
