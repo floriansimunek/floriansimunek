@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@floriansimunek.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://floriansimunek.com)
 
-👨‍💻 Moi c'est Florian, 23 ans\
+👨‍💻 Moi c'est Florian, 24 ans\
 🎯 Spécialisé ReactJS & Javascript (+ Typescript), création d'applications sur-mesure\
 👨‍💻 Intégration de maquette responsive avec HTML, CSS ou Wordpress\
 ⚛️ Expert en développement front-end React, je vise une expérience utilisateur optimale\
